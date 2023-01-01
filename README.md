@@ -19,4 +19,5 @@ with 20 other different factors from the data.
 and Fast Fourier Transformation of the features.
 
 
-– Visualised the systematic and non systematic components of the Monthly mean and
+– Visualised the systematic and non systematic components of the Monthly mean and yearly Sunspot
+number time series and used an ARIMA Model to further predict the next solar cycle
