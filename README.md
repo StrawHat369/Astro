@@ -1,6 +1,7 @@
 # Monthly time series of different solar, geomagnetic indices and events from 1963 to 2020
 
 Done by: Aditya Gouroju
+
 Guide: Dr. Siddharth Savyasachi Malu, Associate Professor, IIT Indore
 
 ## Solar Cycle
