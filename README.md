@@ -1,5 +1,8 @@
 # Monthly time series of different solar, geomagnetic indices and events from 1963 to 2020
 
+Done by: Aditya Gouroju
+Guide: Dr. Siddharth Savyasachi Malu, Associate Professor, IIT Indore
+
 ## Solar Cycle
 Our Sun is a huge ball of electrically-charged hot gas. This charged gas moves, generating a powerful magnetic field. The Sun's magnetic field goes through a cycle, called the solar cycle. Every 11 years or so, the Sun's magnetic field completely flips. This means that the Sun's north and south poles switch places. Then it takes about another 11 years for the Sun’s north and south poles to flip back again. The solar cycle affects activity on the surface of the Sun, such as sunspots which are caused by the Sun's magnetic fields. As the magnetic fields change, so does the amount of activity on the Sun's surface.
 
