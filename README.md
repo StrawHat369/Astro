@@ -7,3 +7,16 @@ One way to track the solar cycle is by counting the number of sunspots. The begi
 
 ## Sunspots
 Sunspots are temporary phenomena on the Sun's photosphere that appear as spots darker than the surrounding areas. They are regions of reduced surface temperature caused by concentrations of magnetic field flux that inhibit convection. Sunspots usually appear in pairs of opposite magnetic polarity.Although sunspots cause a decrease in irradiance they're accompanied by bright white blotches called faculae that cause an overall increase in solar irradiance. Without radiometers, scientists would probably still wonder how much energy the sun emits and whether it varies with the sunspot cycle
+
+– Domain: Data Analysis and Machine Learning
+
+
+– Preprocessed and analysed the trend of monthly mean sunspots since the year 1963 and its correlation
+with 20 other different factors from the data.
+
+
+– Analysed and identified the time period of solar cycle as approximately 11 years using auto correlation
+and Fast Fourier Transformation of the features.
+
+
+– Visualised the systematic and non systematic components of the Monthly mean and
